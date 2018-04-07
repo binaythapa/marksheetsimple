@@ -1,0 +1,8 @@
+@extends('layouts.larasample')
+
+@section('title', 'Schools')
+@endsection
+
+@section('content')
+
+<form method="post" action=" "
